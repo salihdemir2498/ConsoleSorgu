@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="3.0" xmlns:edmx="http://schemas.microsoft.com/ado/2009/11/edmx">
+ <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <edmx:Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
+    <!-- Diagram content (shape and connector positions) -->
+    <edmx:Diagrams>
+      <Diagram DiagramId="d9fc635d6073405c874f51e76e8de4d1" Name="Diagram1">
+        <EntityTypeShape EntityType="KutuphaneSabahModel.Kitaplar" Width="1.5" PointX="5.25" PointY="6" IsExpanded="true" />
+        <EntityTypeShape EntityType="KutuphaneSabahModel.Odunc" Width="1.5" PointX="7.5" PointY="6.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="KutuphaneSabahModel.Turler" Width="1.5" PointX="0.75" PointY="4.375" IsExpanded="true" />
+        <EntityTypeShape EntityType="KutuphaneSabahModel.Uyeler" Width="1.5" PointX="5.25" PointY="0.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="KutuphaneSabahModel.Yayinevleri" Width="1.5" PointX="3" PointY="4.5" IsExpanded="true" />
+        <EntityTypeShape EntityType="KutuphaneSabahModel.Yazarlar" Width="1.5" PointX="3" PointY="7.875" IsExpanded="true" />
+        <AssociationConnector Association="KutuphaneSabahModel.FK__Kitaplar__TurID__2F10007B" ManuallyRouted="false" />
+        <AssociationConnector Association="KutuphaneSabahModel.FK__Kitaplar__YayinE__30F848ED" ManuallyRouted="false" />
+        <AssociationConnector Association="KutuphaneSabahModel.FK__Kitaplar__YazarI__300424B4" ManuallyRouted="false" />
+        <AssociationConnector Association="KutuphaneSabahModel.FK__Odunc__KitapISBN__34C8D9D1" ManuallyRouted="false" />
+        <AssociationConnector Association="KutuphaneSabahModel.FK__Odunc__UyeID__33D4B598" ManuallyRouted="false" />
+        <AssociationConnector Association="KutuphaneSabahModel.FK__Yazarlar__TurID__276EDEB3" ManuallyRouted="false" />
+      </Diagram>
+    </edmx:Diagrams>
+  </edmx:Designer>
+</edmx:Edmx>

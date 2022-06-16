@@ -1,0 +1,10 @@
+C:\Users\PATRON\Desktop\Visual Studio\Projeler\VİSUAL Projeler\Console_Sorgu_House_Work\Console_Sorgu\bin\Debug\Console_Sorgu.exe.config
+C:\Users\PATRON\Desktop\Visual Studio\Projeler\VİSUAL Projeler\Console_Sorgu_House_Work\Console_Sorgu\bin\Debug\Console_Sorgu.exe
+C:\Users\PATRON\Desktop\Visual Studio\Projeler\VİSUAL Projeler\Console_Sorgu_House_Work\Console_Sorgu\bin\Debug\Console_Sorgu.pdb
+C:\Users\PATRON\Desktop\Visual Studio\Projeler\VİSUAL Projeler\Console_Sorgu_House_Work\Console_Sorgu\bin\Debug\EntityFramework.dll
+C:\Users\PATRON\Desktop\Visual Studio\Projeler\VİSUAL Projeler\Console_Sorgu_House_Work\Console_Sorgu\bin\Debug\EntityFramework.xml
+C:\Users\PATRON\Desktop\Visual Studio\Projeler\VİSUAL Projeler\Console_Sorgu_House_Work\Console_Sorgu\obj\Debug\Console_Sorgu.csproj.AssemblyReference.cache
+C:\Users\PATRON\Desktop\Visual Studio\Projeler\VİSUAL Projeler\Console_Sorgu_House_Work\Console_Sorgu\obj\Debug\Console_Sorgu.csproj.CoreCompileInputs.cache
+C:\Users\PATRON\Desktop\Visual Studio\Projeler\VİSUAL Projeler\Console_Sorgu_House_Work\Console_Sorgu\obj\Debug\Console_Sorgu.csproj.CopyComplete
+C:\Users\PATRON\Desktop\Visual Studio\Projeler\VİSUAL Projeler\Console_Sorgu_House_Work\Console_Sorgu\obj\Debug\Console_Sorgu.exe
+C:\Users\PATRON\Desktop\Visual Studio\Projeler\VİSUAL Projeler\Console_Sorgu_House_Work\Console_Sorgu\obj\Debug\Console_Sorgu.pdb
